@@ -39,7 +39,7 @@ This project is a movie search engine that allows users to search for movies bas
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-repo/movie-search-engine.git
+   git clone https://github.com/meggitt/ElasticSearch-Movie-Search-Engine.git
    cd movie-search-engine
    ```
 
